@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sebastian Koke"
   avatar           : "profile.png"
-  bio              : "PostDoc at <a href="https://www.ptb.de/cms/en/ptb/fachabteilungen/abt4/fb-43/ag-434.html">PTB</a>"
+  bio              : "Postdoctoral researcher at PTB" #<a href="https://www.ptb.de/cms/en/ptb/fachabteilungen/abt4/fb-43/ag-434.html">PTB</a>"
   location         : "Braunschweig, Germany"
   employer         :
   pubmed           : 

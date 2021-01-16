@@ -40,7 +40,9 @@ Peer-reviewed journals
 Theses
 ======
 - **S. Koke**, „Fundamental Limitations in the Measurement and Stabilization of the Carrier-Envelope Phase of Ultrashort Laser Pulses“, PhD thesis, Humboldt-Universität zu Berlin, 2011 (appeared in Cuvillier Verlag Göttingen)
-- **S.Koke**, "DDynamics of Counterpropagating Solitary 	Waves in Nonlinear Optical Media", diploma thesis, University of Münster
+- **S.Koke**, "Dynamics of Counterpropagating Solitary 	Waves in Nonlinear Optical Media", diploma thesis, University of Münster
+
+
 
 
 {% if author.googlescholar %}

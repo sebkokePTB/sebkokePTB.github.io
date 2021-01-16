@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-15. J. Lodewyck, R. Le Targat, P-E. Pottie, E. Benkler, **S. Koke**, and J. Kronjäger, „Universal formalism for data sharing and processing in clock comparison networks“, Phys. Rev. Research 2, 043269 (2020); https://doi.org/10.1103/PhysRevResearch.2.043269
+15. J. Lodewyck, R. Le Targat, P-E. Pottie, E. Benkler, **S. Koke**, and J. Kronjäger, „Universal formalism for data sharing and processing in clock comparison networks“, Phys. Rev. Research 2, 043269 (2020); (https://doi.org/10.1103/PhysRevResearch.2.043269)
 
 14. B.M. Roberts, P. Delva, A. Al-Masoudi, A. Amy-Klein, C. Bærentsen, C.F.A. Baynham, E. Benkler, S. Bilicki, S. Bize, W. Bowden, J. Calvert, V. Cambier, E. Cantin, E.A. Curtis, S. Dörscher, M. Favier, F. Frank, P. Gill, R.M. Godun, G. Grosche, C. Guo, A. Hees, I.R. Hill, R. Hobson, N. Huntemann, J. Kronjäger, **S. Koke**, A. Kuhl, R. Lange, T. Legero, B. Lipphardt, C. Lisdat, J. Lodewyck, O. Lopez, H.S. Margolis, H. Álvarez-Martínez, F. Meynadier, F. Ozimek, E. Peik, P-E Pottie, N. Quintin, C. Sanner, L. De Sarlo, M. Schioppo, R. Schwarz, A. Silva, U. Sterr, C. Tamm, R. Le Targat, P. Tuckey, G. Vallet, T. Waterholter, D. Xu, P Wolf, „Search for transient variations of the fine structure constant and dark matter using fiber-linked optical atomic clocks“, New J. Phys. 22 093010 (2020); https://doi.org/10.1088/1367-2630/abaace
 
@@ -34,7 +34,7 @@ author_profile: true
 2. **S. Koke**, C. Grebing, B. Manschwetus, G. Steinmeyer, „Fast f-to-2f interferometer for a direct measurement of the carrier-envelope phase drift of ultrashort amplified laser pulses“, Optics Letters 33, 2545 (2008); [10.1364/ol.33.002545](https://doi.org/10.1364/ol.33.002545)
 
 1. **S. Koke**, D. Träger, Ph. Jander, M. Chen, D.N. Neshev, W. Krolikowski, Yu.S. Kivshar, C. Denz, "Stabilization of counterpropagating solitons by photonic lattices", Optics Express 15, 6279 (2007); [10.1364/OE.15.006279](https://doi.org/10.1364/OE.15.006279)
-
+{: reversed="reversed"}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

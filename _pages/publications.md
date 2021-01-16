@@ -36,12 +36,12 @@ author_profile: true
 1. **S. Koke**, D. Träger, Ph. Jander, M. Chen, D.N. Neshev, W. Krolikowski, Yu.S. Kivshar, C. Denz, "Stabilization of counterpropagating solitons by photonic lattices", Optics Express 15, 6279 (2007); [10.1364/OE.15.006279](https://doi.org/10.1364/OE.15.006279)
 
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-#
-#{% include base_path %}
-#
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}

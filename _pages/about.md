@@ -23,4 +23,4 @@ Research topics
 
 Academic services
 ======
-I have acted as a journal reviewer (Optics Letters, Optics Express, Optica, Journal of Ligthwave Technology, IEEE UFFC) and helped in conference management (IEEE IFCS-ISAF 2020 (reviewer & session chair).
+I have acted as a journal reviewer (Optics Letters, Optics Express, Optica, Journal of Ligthwave Technology, IEEE UFFC) and helped in conference management (IEEE IFCS-ISAF 2020 (reviewer & session chair)).

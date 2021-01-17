@@ -32,7 +32,7 @@ As presenter
 1. **S. Koke**, Ph. Jander, T.D. Frank, C. Denz, „Dynamics of counterpropagating spatial solitons in photorefractive crystals“, DPG Frühjahrstagung 2006, Frankfurt, 15.03.2006
 {: reversed="reversed"}
 
-Other conference contributions
+Non-presenting conference contributions
 ======
 
 

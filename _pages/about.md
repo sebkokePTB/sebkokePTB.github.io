@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working at the [Physikalisch-Technische Bundesanstalt](https://www.ptb.de/cms/en/ptb/fachabteilungen/abt4/fb-43/ag-434.html), the national metrology institude of Germany.
-Prior to joining PTB I have been with Innolight GmbH/Coherent LaserSystem GmbH & Co. KG, the [Max Born Institute](https://mbi-berlin.de/about-mbi/organization/division-c-nonlinear-processes-in-condensed-matter), and the [University of Münster](https://www.uni-muenster.de/Physik.AP/Denz/en/).
+I am a postdoctoral researcher working at the [Physikalisch-Technische Bundesanstalt](https://www.ptb.de/cms/en/ptb/fachabteilungen/abt4/fb-43/ag-434.html), the national metrology institute of Germany.
+Prior to joining PTB, I have been with Innolight GmbH/Coherent LaserSystem GmbH & Co. KG, the [Max Born Institute](https://mbi-berlin.de/about-mbi/organization/division-c-nonlinear-processes-in-condensed-matter), and the [University of Münster](https://www.uni-muenster.de/Physik.AP/Denz/en/).
 
 
 Research topics
@@ -19,6 +19,7 @@ Research topics
 - laser physics: mode-locked, single-frequency, q-switched, fiber lasers
 - timeseries analysis: statistical properties, search for nonlinear dynamics
 - numerical simulation of ODE/PDEs, beam propagation
+- control loops (feedback and feedforward)
 
 
 Academic services

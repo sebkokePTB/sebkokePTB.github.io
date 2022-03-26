@@ -7,6 +7,9 @@ author_profile: true
 
 Peer-reviewed journals
 ======
+17. M. Schioppo, J. Kronjäger, A. Silva, R. Ilieva, J. W. Paterson, C. F. A. Baynham, W. Bowden, I. R. Hill, R. Hobson, A. Vianello, M. Dovale-Álvarez, R. A. Williams, G. Marra, H. S. Margolis, A. Amy-Klein, O. Lopez, E. Cantin, H. Álvarez-Martínez, R. Le Targat, P. E. Pottie, N. Quintin, T. Legero, S. Häfner, U. Sterr, R. Schwarz, S. Dörscher, C. Lisdat, **S. Koke**, A. Kuhl, T. Waterholter, E. Benkler, and G. Grosche, Nat Commun 13, (2022) [10.1038/s41467-021-27884-3](https://doi.org/10.1038/s41467-021-27884-3)
+
+16. **S. Koke**, E. Benkler, A. Kuhl and G. Grosche, "Validating frequency transfer via interferometric fiber links for optical clock comparisons", New J. Phys. 23, 093024 (2021) [10.1088/1367-2630/ac21a0](https://doi.org/10.1088/1367-2630/ac21a0)
 
 15. J. Lodewyck, R. Le Targat, P-E. Pottie, E. Benkler, **S. Koke**, and J. Kronjäger, "Universal formalism for data sharing and processing in clock comparison networks", Phys. Rev. Research 2, 043269 (2020) [10.1103/PhysRevResearch.2.043269](https://doi.org/10.1103/PhysRevResearch.2.043269)
 
